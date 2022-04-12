@@ -1,0 +1,8 @@
+# Scala
+.metals/
+.vscode/
+.bsp/
+scala/*/target
+scala/*/*/target
+scala/*/*/*/target
+scala/*/*/*/project
